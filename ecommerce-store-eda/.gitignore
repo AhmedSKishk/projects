@@ -1,0 +1,14 @@
+# Environment variables (contain credentials) - never commit
+.env
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

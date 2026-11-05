@@ -1,0 +1,8 @@
+numpy
+pandas
+plotly
+kaleido
+mysql-connector-python
+python-dotenv
+ipykernel
+nbformat

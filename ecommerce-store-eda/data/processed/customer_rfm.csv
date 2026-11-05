@@ -1,0 +1,617 @@
+customer_id,frequency,monetary,recency_days,R,M,F,segment,state,gender,age_group
+1,3,1641.0,204,1,3,3,Lapsed high-value (win back),Northern Territory,Female,30-39
+7,1,1017.0,157,2,2,1,Lapsed low-value,Queensland,Bigender,70+
+10,1,270.0,230,1,1,1,Lapsed low-value,Western Australia,Bigender,70+
+11,1,382.0,150,2,1,1,Lapsed low-value,Northern Territory,Agender,30-39
+12,1,1551.0,128,2,3,1,Lapsed high-value (win back),South Australia,Bigender,70+
+13,1,332.0,27,4,1,1,Active low-value,Queensland,Male,40-49
+15,2,2475.0,62,3,4,2,Active high-value,Western Australia,Genderfluid,30-39
+16,1,1256.0,7,4,2,1,Active low-value,Victoria,Male,70+
+18,2,2301.0,241,1,4,2,Lapsed high-value (win back),New South Wales,Male,70+
+19,1,1172.0,195,1,2,1,Lapsed low-value,Victoria,Agender,40-49
+20,2,1520.0,5,4,3,2,Active high-value,South Australia,Genderqueer,50-59
+21,3,2552.0,159,2,4,3,Lapsed high-value (win back),Tasmania,Non-binary,30-39
+22,1,2539.0,224,1,4,1,Lapsed high-value (win back),Victoria,Non-binary,18-29
+23,1,1268.0,155,2,2,1,Lapsed low-value,Tasmania,Female,30-39
+25,1,1253.0,186,2,2,1,Lapsed low-value,Victoria,Genderqueer,70+
+26,1,1347.0,82,3,2,1,Active low-value,New South Wales,Genderqueer,50-59
+27,1,1265.0,162,2,2,1,Lapsed low-value,Western Australia,Polygender,50-59
+28,2,2877.0,15,4,4,2,Active high-value,Queensland,Non-binary,70+
+34,1,866.0,44,4,1,1,Active low-value,Western Australia,Non-binary,50-59
+35,2,1640.0,29,4,3,2,Active high-value,Queensland,Male,70+
+40,2,1117.0,169,2,2,2,Lapsed low-value,New South Wales,Polygender,50-59
+41,1,1417.0,64,3,2,1,Active low-value,New South Wales,Male,60-69
+42,1,1099.0,274,1,2,1,Lapsed low-value,Victoria,Genderqueer,30-39
+44,1,1194.0,99,3,2,1,Active low-value,Tasmania,Bigender,60-69
+45,1,399.0,64,3,1,1,Active low-value,Australian Capital Territory,Male,18-29
+46,1,710.0,194,1,1,1,Lapsed low-value,Australian Capital Territory,Agender,60-69
+47,1,183.0,82,3,1,1,Active low-value,Western Australia,Polygender,50-59
+49,3,1392.0,32,4,2,3,Active low-value,Queensland,Female,50-59
+50,2,2564.0,102,3,4,2,Active high-value,Western Australia,Genderqueer,60-69
+51,3,3598.0,64,3,4,3,Active high-value,Northern Territory,Non-binary,50-59
+52,1,1180.0,17,4,2,1,Active low-value,Victoria,Male,40-49
+54,2,1899.0,72,3,3,2,Active high-value,Queensland,Genderqueer,60-69
+55,1,1382.0,162,2,2,1,Lapsed low-value,South Australia,Polygender,40-49
+58,3,2387.0,44,4,4,3,Active high-value,New South Wales,Agender,30-39
+60,1,725.0,96,3,1,1,Active low-value,Tasmania,Agender,18-29
+61,1,236.0,159,2,1,1,Lapsed low-value,South Australia,Genderqueer,60-69
+62,2,3682.0,11,4,4,2,Active high-value,Australian Capital Territory,Bigender,30-39
+64,1,1487.0,56,3,3,1,Active high-value,South Australia,Genderfluid,70+
+68,2,1586.0,6,4,3,2,Active high-value,Western Australia,Female,18-29
+69,1,1234.0,93,3,2,1,Active low-value,Victoria,Bigender,70+
+70,1,547.0,259,1,1,1,Lapsed low-value,Northern Territory,Female,40-49
+72,1,569.0,143,2,1,1,Lapsed low-value,Tasmania,Genderfluid,40-49
+73,1,876.0,256,1,1,1,Lapsed low-value,South Australia,Polygender,40-49
+75,2,2571.0,217,1,4,2,Lapsed high-value (win back),South Australia,Non-binary,70+
+76,1,529.0,245,1,1,1,Lapsed low-value,New South Wales,Agender,50-59
+77,1,1201.0,56,3,2,1,Active low-value,South Australia,Male,60-69
+78,2,2412.0,110,3,4,2,Active high-value,Northern Territory,Genderqueer,30-39
+79,1,1419.0,42,4,2,1,Active low-value,Australian Capital Territory,Genderfluid,40-49
+81,2,2508.0,168,2,4,2,Lapsed high-value (win back),Western Australia,Female,30-39
+83,1,1240.0,73,3,2,1,Active low-value,Northern Territory,Agender,40-49
+84,2,3174.0,6,4,4,2,Active high-value,Northern Territory,Female,60-69
+85,1,1664.0,102,3,3,1,Active high-value,Northern Territory,Genderqueer,18-29
+86,2,2342.0,165,2,4,2,Lapsed high-value (win back),Tasmania,Non-binary,70+
+87,1,1149.0,69,3,2,1,Active low-value,Northern Territory,Agender,50-59
+88,2,2077.0,127,2,3,2,Lapsed high-value (win back),South Australia,Male,70+
+89,1,908.0,262,1,2,1,Lapsed low-value,Queensland,Female,50-59
+92,3,1678.0,116,2,3,3,Lapsed high-value (win back),Queensland,Agender,18-29
+93,1,390.0,87,3,1,1,Active low-value,Queensland,Genderfluid,60-69
+94,1,1231.0,72,3,2,1,Active low-value,Western Australia,Genderqueer,40-49
+95,1,1932.0,72,3,3,1,Active high-value,Western Australia,Non-binary,30-39
+96,2,1991.0,25,4,3,2,Active high-value,New South Wales,Genderfluid,40-49
+97,2,938.0,118,2,2,2,Lapsed low-value,Northern Territory,Female,30-39
+99,1,1256.0,112,2,2,1,Lapsed low-value,Tasmania,Genderqueer,70+
+100,3,3032.0,183,2,4,3,Lapsed high-value (win back),Queensland,Genderfluid,60-69
+102,3,2805.0,101,3,4,3,Active high-value,Queensland,Genderfluid,30-39
+103,1,1733.0,118,2,3,1,Lapsed high-value (win back),South Australia,Bigender,70+
+104,1,819.0,126,2,1,1,Lapsed low-value,Australian Capital Territory,Agender,70+
+106,2,2531.0,210,1,4,2,Lapsed high-value (win back),Australian Capital Territory,Genderqueer,30-39
+107,4,4385.0,17,4,4,3,Active high-value,Western Australia,Genderfluid,30-39
+108,3,2831.0,17,4,4,3,Active high-value,Queensland,Bigender,50-59
+110,1,941.0,178,2,2,1,Lapsed low-value,Western Australia,Genderfluid,60-69
+111,1,917.0,83,3,2,1,Active low-value,Northern Territory,Female,50-59
+112,1,1378.0,286,1,2,1,Lapsed low-value,South Australia,Female,40-49
+113,1,1288.0,106,3,2,1,Active low-value,South Australia,Agender,50-59
+116,1,685.0,84,3,1,1,Active low-value,Northern Territory,Genderfluid,30-39
+117,1,1824.0,95,3,3,1,Active high-value,Tasmania,Female,70+
+118,1,788.0,295,1,1,1,Lapsed low-value,Australian Capital Territory,Male,50-59
+120,1,714.0,117,2,1,1,Lapsed low-value,Queensland,Polygender,60-69
+123,4,3976.0,16,4,4,3,Active high-value,Tasmania,Female,18-29
+124,1,494.0,204,1,1,1,Lapsed low-value,New South Wales,Non-binary,50-59
+125,1,1612.0,26,4,3,1,Active high-value,Tasmania,Bigender,70+
+127,1,1145.0,287,1,2,1,Lapsed low-value,Western Australia,Genderfluid,30-39
+128,1,1503.0,135,2,3,1,Lapsed high-value (win back),Northern Territory,Male,40-49
+129,3,4399.0,17,4,4,3,Active high-value,Western Australia,Non-binary,60-69
+133,1,697.0,37,4,1,1,Active low-value,Tasmania,Bigender,40-49
+134,1,605.0,260,1,1,1,Lapsed low-value,Victoria,Male,60-69
+135,2,1537.0,22,4,3,2,Active high-value,Western Australia,Genderfluid,18-29
+139,1,923.0,244,1,2,1,Lapsed low-value,Australian Capital Territory,Male,70+
+142,1,714.0,118,2,1,1,Lapsed low-value,South Australia,Bigender,70+
+144,1,998.0,101,3,2,1,Active low-value,South Australia,Male,60-69
+146,1,616.0,78,3,1,1,Active low-value,Western Australia,Agender,50-59
+148,1,2376.0,101,3,4,1,Active high-value,Northern Territory,Polygender,50-59
+150,1,721.0,125,2,1,1,Lapsed low-value,Tasmania,Male,18-29
+155,2,1366.0,177,2,2,2,Lapsed low-value,New South Wales,Male,70+
+156,2,1675.0,125,2,3,2,Lapsed high-value (win back),Western Australia,Female,18-29
+158,1,879.0,192,2,2,1,Lapsed low-value,New South Wales,Genderqueer,30-39
+160,1,1412.0,78,3,2,1,Active low-value,New South Wales,Male,18-29
+161,1,1328.0,137,2,2,1,Lapsed low-value,Western Australia,Agender,18-29
+163,3,3494.0,2,4,4,3,Active high-value,Australian Capital Territory,Genderfluid,18-29
+167,1,738.0,274,1,1,1,Lapsed low-value,Australian Capital Territory,Agender,30-39
+169,1,858.0,180,2,1,1,Lapsed low-value,Western Australia,Female,70+
+171,1,697.0,178,2,1,1,Lapsed low-value,Western Australia,Agender,70+
+176,1,412.0,229,1,1,1,Lapsed low-value,New South Wales,Male,40-49
+178,1,1079.0,262,1,2,1,Lapsed low-value,Australian Capital Territory,Agender,50-59
+179,2,1587.0,43,4,3,2,Active high-value,Queensland,Agender,50-59
+180,3,2300.0,102,3,4,3,Active high-value,Western Australia,Genderfluid,18-29
+181,2,2159.0,60,3,3,2,Active high-value,Northern Territory,Polygender,18-29
+183,3,3374.0,108,3,4,3,Active high-value,Queensland,Female,40-49
+185,1,600.0,66,3,1,1,Active low-value,Victoria,Polygender,60-69
+187,1,1998.0,162,2,3,1,Lapsed high-value (win back),Queensland,Genderfluid,70+
+189,3,1732.0,13,4,3,3,Active high-value,Western Australia,Bigender,18-29
+191,1,1005.0,172,2,2,1,Lapsed low-value,Northern Territory,Agender,70+
+192,1,1493.0,285,1,3,1,Lapsed high-value (win back),Tasmania,Female,60-69
+195,1,719.0,183,2,1,1,Lapsed low-value,New South Wales,Genderfluid,70+
+196,1,1110.0,144,2,2,1,Lapsed low-value,South Australia,Genderqueer,18-29
+198,1,417.0,22,4,1,1,Active low-value,Victoria,Genderqueer,60-69
+199,1,675.0,125,2,1,1,Lapsed low-value,South Australia,Genderqueer,60-69
+201,2,3519.0,12,4,4,2,Active high-value,Australian Capital Territory,Polygender,50-59
+203,1,942.0,253,1,2,1,Lapsed low-value,Australian Capital Territory,Non-binary,30-39
+204,1,1583.0,10,4,3,1,Active high-value,New South Wales,Female,60-69
+206,4,5581.0,67,3,4,3,Active high-value,Queensland,Polygender,60-69
+207,3,3320.0,3,4,4,3,Active high-value,Queensland,Genderqueer,50-59
+208,1,919.0,50,4,2,1,Active low-value,South Australia,Bigender,70+
+209,3,3477.0,131,2,4,3,Lapsed high-value (win back),South Australia,Female,18-29
+211,1,688.0,41,4,1,1,Active low-value,New South Wales,Non-binary,50-59
+212,1,526.0,296,1,1,1,Lapsed low-value,Western Australia,Polygender,70+
+214,1,621.0,126,2,1,1,Lapsed low-value,Queensland,Female,50-59
+218,1,1069.0,182,2,2,1,Lapsed low-value,Queensland,Non-binary,70+
+219,1,921.0,12,4,2,1,Active low-value,Tasmania,Male,40-49
+221,1,1282.0,276,1,2,1,Lapsed low-value,Australian Capital Territory,Polygender,40-49
+223,1,551.0,12,4,1,1,Active low-value,South Australia,Non-binary,50-59
+224,1,1649.0,293,1,3,1,Lapsed high-value (win back),New South Wales,Genderfluid,70+
+225,2,1887.0,6,4,3,2,Active high-value,Queensland,Genderfluid,70+
+227,1,1765.0,66,3,3,1,Active high-value,Tasmania,Non-binary,18-29
+228,2,1797.0,102,3,3,2,Active high-value,Northern Territory,Female,40-49
+230,1,873.0,54,3,1,1,Active low-value,Tasmania,Bigender,18-29
+232,1,499.0,51,4,1,1,Active low-value,Northern Territory,Male,18-29
+233,1,632.0,100,3,1,1,Active low-value,South Australia,Agender,30-39
+234,2,2461.0,99,3,4,2,Active high-value,Victoria,Genderfluid,30-39
+236,3,2692.0,207,1,4,3,Lapsed high-value (win back),New South Wales,Non-binary,70+
+237,1,2469.0,132,2,4,1,Lapsed high-value (win back),New South Wales,Agender,70+
+238,1,925.0,193,1,2,1,Lapsed low-value,Tasmania,Non-binary,30-39
+239,1,501.0,203,1,1,1,Lapsed low-value,Australian Capital Territory,Genderfluid,60-69
+240,2,2536.0,40,4,4,2,Active high-value,Victoria,Genderqueer,18-29
+241,2,1467.0,103,3,3,2,Active high-value,Queensland,Bigender,60-69
+244,3,3983.0,63,3,4,3,Active high-value,Victoria,Male,30-39
+246,1,477.0,194,1,1,1,Lapsed low-value,Tasmania,Bigender,40-49
+247,2,1558.0,104,3,3,2,Active high-value,Victoria,Female,50-59
+250,2,1396.0,140,2,2,2,Lapsed low-value,Queensland,Polygender,18-29
+251,1,537.0,229,1,1,1,Lapsed low-value,Australian Capital Territory,Female,70+
+254,2,2491.0,127,2,4,2,Lapsed high-value (win back),Queensland,Male,40-49
+256,2,3214.0,132,2,4,2,Lapsed high-value (win back),Australian Capital Territory,Bigender,40-49
+257,1,1016.0,179,2,2,1,Lapsed low-value,Australian Capital Territory,Genderfluid,60-69
+258,2,3773.0,197,1,4,2,Lapsed high-value (win back),Queensland,Female,60-69
+260,2,2184.0,96,3,4,2,Active high-value,Tasmania,Female,18-29
+263,1,419.0,111,3,1,1,Active low-value,Western Australia,Genderfluid,18-29
+264,1,1654.0,288,1,3,1,Lapsed high-value (win back),Queensland,Male,40-49
+265,1,743.0,53,3,1,1,Active low-value,Tasmania,Male,50-59
+266,2,3183.0,145,2,4,2,Lapsed high-value (win back),New South Wales,Non-binary,50-59
+267,2,2016.0,112,2,3,2,Lapsed high-value (win back),Western Australia,Bigender,40-49
+268,1,1109.0,210,1,2,1,Lapsed low-value,South Australia,Male,40-49
+269,2,2029.0,61,3,3,2,Active high-value,New South Wales,Bigender,18-29
+272,2,1648.0,60,3,3,2,Active high-value,Victoria,Genderqueer,18-29
+273,1,1169.0,286,1,2,1,Lapsed low-value,Northern Territory,Bigender,40-49
+276,1,1163.0,297,1,2,1,Lapsed low-value,Victoria,Genderfluid,50-59
+278,1,1826.0,60,3,3,1,Active high-value,Queensland,Non-binary,70+
+282,5,7632.0,64,3,4,3,Active high-value,Australian Capital Territory,Female,50-59
+283,1,1187.0,213,1,2,1,Lapsed low-value,New South Wales,Male,18-29
+286,1,1606.0,62,3,3,1,Active high-value,Queensland,Polygender,30-39
+288,1,682.0,127,2,1,1,Lapsed low-value,Victoria,Male,18-29
+289,1,1234.0,285,1,2,1,Lapsed low-value,Australian Capital Territory,Genderqueer,40-49
+290,1,2144.0,201,1,3,1,Lapsed high-value (win back),Tasmania,Male,60-69
+291,1,1017.0,42,4,2,1,Active low-value,Tasmania,Genderqueer,40-49
+292,2,2100.0,169,2,3,2,Lapsed high-value (win back),Victoria,Male,18-29
+298,1,635.0,7,4,1,1,Active low-value,Queensland,Female,18-29
+299,2,1608.0,167,2,3,2,Lapsed high-value (win back),Victoria,Non-binary,30-39
+300,1,1431.0,269,1,2,1,Lapsed low-value,Western Australia,Female,18-29
+301,1,1093.0,262,1,2,1,Lapsed low-value,South Australia,Non-binary,40-49
+303,1,1747.0,51,4,3,1,Active high-value,New South Wales,Genderqueer,70+
+305,1,887.0,173,2,2,1,Lapsed low-value,Australian Capital Territory,Genderqueer,18-29
+306,2,3331.0,14,4,4,2,Active high-value,Queensland,Polygender,60-69
+308,2,1823.0,32,4,3,2,Active high-value,Northern Territory,Genderfluid,70+
+309,1,1567.0,217,1,3,1,Lapsed high-value (win back),Queensland,Genderqueer,18-29
+310,2,2389.0,124,2,4,2,Lapsed high-value (win back),New South Wales,Polygender,60-69
+311,1,1815.0,269,1,3,1,Lapsed high-value (win back),Northern Territory,Agender,18-29
+313,1,961.0,77,3,2,1,Active low-value,South Australia,Agender,18-29
+315,2,1798.0,66,3,3,2,Active high-value,Australian Capital Territory,Genderqueer,40-49
+316,1,655.0,280,1,1,1,Lapsed low-value,Northern Territory,Genderqueer,60-69
+317,2,2131.0,104,3,3,2,Active high-value,Australian Capital Territory,Male,40-49
+318,3,2248.0,167,2,4,3,Lapsed high-value (win back),Western Australia,Polygender,60-69
+320,1,1296.0,230,1,2,1,Lapsed low-value,Tasmania,Polygender,40-49
+321,1,205.0,3,4,1,1,Active low-value,New South Wales,Female,40-49
+323,1,1571.0,198,1,3,1,Lapsed high-value (win back),South Australia,Genderfluid,40-49
+325,3,2570.0,127,2,4,3,Lapsed high-value (win back),South Australia,Genderqueer,60-69
+326,2,2716.0,262,1,4,2,Lapsed high-value (win back),Northern Territory,Genderfluid,50-59
+327,2,2851.0,12,4,4,2,Active high-value,Western Australia,Non-binary,70+
+328,3,2866.0,9,4,4,3,Active high-value,Western Australia,Non-binary,50-59
+329,1,1245.0,293,1,2,1,Lapsed low-value,Western Australia,Polygender,50-59
+330,1,345.0,39,4,1,1,Active low-value,Victoria,Male,40-49
+331,2,2061.0,4,4,3,2,Active high-value,Northern Territory,Polygender,30-39
+332,2,667.0,86,3,1,2,Active low-value,Northern Territory,Male,70+
+333,1,960.0,153,2,2,1,Lapsed low-value,South Australia,Non-binary,50-59
+334,1,1054.0,102,3,2,1,Active low-value,Queensland,Agender,60-69
+336,1,583.0,276,1,1,1,Lapsed low-value,Australian Capital Territory,Male,30-39
+337,1,1452.0,213,1,3,1,Lapsed high-value (win back),Western Australia,Non-binary,70+
+338,1,980.0,82,3,2,1,Active low-value,New South Wales,Female,70+
+341,3,3291.0,84,3,4,3,Active high-value,Victoria,Female,30-39
+342,1,715.0,216,1,1,1,Lapsed low-value,Victoria,Genderqueer,40-49
+343,1,1159.0,39,4,2,1,Active low-value,Northern Territory,Non-binary,40-49
+345,1,1459.0,285,1,3,1,Lapsed high-value (win back),Victoria,Genderqueer,60-69
+346,1,204.0,280,1,1,1,Lapsed low-value,Northern Territory,Genderqueer,40-49
+347,1,1527.0,234,1,3,1,Lapsed high-value (win back),Victoria,Female,18-29
+348,5,5119.0,25,4,4,3,Active high-value,Tasmania,Genderqueer,70+
+350,1,1286.0,74,3,2,1,Active low-value,Victoria,Bigender,18-29
+352,1,578.0,76,3,1,1,Active low-value,Queensland,Bigender,30-39
+357,1,738.0,78,3,1,1,Active low-value,Australian Capital Territory,Polygender,40-49
+358,1,1166.0,55,3,2,1,Active low-value,Northern Territory,Genderfluid,60-69
+359,1,2074.0,32,4,3,1,Active high-value,Victoria,Genderfluid,18-29
+360,1,1432.0,240,1,2,1,Lapsed low-value,Northern Territory,Male,60-69
+362,1,1338.0,36,4,2,1,Active low-value,Queensland,Genderqueer,30-39
+364,1,986.0,85,3,2,1,Active low-value,New South Wales,Polygender,18-29
+365,1,755.0,185,2,1,1,Lapsed low-value,Tasmania,Genderqueer,18-29
+366,1,1141.0,142,2,2,1,Lapsed low-value,Victoria,Agender,60-69
+367,2,1842.0,7,4,3,2,Active high-value,South Australia,Bigender,50-59
+368,1,770.0,47,4,1,1,Active low-value,Australian Capital Territory,Genderfluid,60-69
+369,2,1678.0,126,2,3,2,Lapsed high-value (win back),Australian Capital Territory,Female,40-49
+370,2,2165.0,14,4,3,2,Active high-value,Australian Capital Territory,Agender,30-39
+371,2,1287.0,56,3,2,2,Active low-value,Queensland,Genderqueer,60-69
+372,1,1066.0,128,2,2,1,Lapsed low-value,South Australia,Genderqueer,50-59
+375,2,1260.0,70,3,2,2,Active low-value,Northern Territory,Agender,70+
+382,2,4103.0,222,1,4,2,Lapsed high-value (win back),Victoria,Genderfluid,18-29
+383,2,1179.0,232,1,2,2,Lapsed low-value,Victoria,Non-binary,18-29
+387,2,2755.0,36,4,4,2,Active high-value,Victoria,Male,40-49
+388,1,624.0,121,2,1,1,Lapsed low-value,Northern Territory,Genderfluid,30-39
+389,1,1085.0,124,2,2,1,Lapsed low-value,South Australia,Agender,40-49
+390,1,307.0,291,1,1,1,Lapsed low-value,Western Australia,Bigender,30-39
+391,1,650.0,244,1,1,1,Lapsed low-value,Australian Capital Territory,Male,70+
+394,1,1691.0,235,1,3,1,Lapsed high-value (win back),Tasmania,Bigender,18-29
+397,1,748.0,267,1,1,1,Lapsed low-value,Australian Capital Territory,Female,50-59
+398,1,1764.0,220,1,3,1,Lapsed high-value (win back),Western Australia,Non-binary,50-59
+399,1,590.0,248,1,1,1,Lapsed low-value,Western Australia,Agender,40-49
+401,4,3093.0,1,4,4,3,Active high-value,Western Australia,Non-binary,70+
+402,2,2004.0,47,4,3,2,Active high-value,Tasmania,Non-binary,18-29
+404,1,1803.0,268,1,3,1,Lapsed high-value (win back),Australian Capital Territory,Non-binary,70+
+407,1,1352.0,173,2,2,1,Lapsed low-value,Queensland,Male,40-49
+408,1,1085.0,82,3,2,1,Active low-value,Australian Capital Territory,Genderfluid,60-69
+409,2,2431.0,110,3,4,2,Active high-value,Australian Capital Territory,Male,70+
+412,3,1951.0,155,2,3,3,Lapsed high-value (win back),South Australia,Polygender,18-29
+413,1,1710.0,273,1,3,1,Lapsed high-value (win back),Queensland,Bigender,18-29
+414,2,734.0,210,1,1,2,Lapsed low-value,Queensland,Polygender,50-59
+415,2,2269.0,2,4,4,2,Active high-value,South Australia,Polygender,40-49
+416,2,2057.0,23,4,3,2,Active high-value,New South Wales,Agender,18-29
+417,1,585.0,68,3,1,1,Active low-value,Tasmania,Non-binary,50-59
+418,2,2258.0,190,2,4,2,Lapsed high-value (win back),Australian Capital Territory,Agender,50-59
+419,1,452.0,68,3,1,1,Active low-value,Queensland,Male,50-59
+421,1,321.0,266,1,1,1,Lapsed low-value,Australian Capital Territory,Genderfluid,60-69
+422,3,3270.0,45,4,4,3,Active high-value,Queensland,Agender,30-39
+423,1,1426.0,209,1,2,1,Lapsed low-value,South Australia,Agender,30-39
+426,1,1298.0,81,3,2,1,Active low-value,Victoria,Bigender,40-49
+427,3,2334.0,32,4,4,3,Active high-value,Queensland,Genderqueer,18-29
+428,2,946.0,132,2,2,2,Lapsed low-value,Australian Capital Territory,Polygender,60-69
+431,3,3565.0,183,2,4,3,Lapsed high-value (win back),Victoria,Agender,40-49
+432,1,1210.0,206,1,2,1,Lapsed low-value,Victoria,Bigender,30-39
+433,3,2231.0,86,3,4,3,Active high-value,Tasmania,Non-binary,40-49
+434,1,533.0,126,2,1,1,Lapsed low-value,Western Australia,Agender,18-29
+435,1,212.0,141,2,1,1,Lapsed low-value,South Australia,Agender,40-49
+436,1,1080.0,225,1,2,1,Lapsed low-value,South Australia,Polygender,40-49
+439,4,3916.0,126,2,4,3,Lapsed high-value (win back),Victoria,Female,70+
+441,2,2893.0,210,1,4,2,Lapsed high-value (win back),Western Australia,Bigender,50-59
+442,1,690.0,242,1,1,1,Lapsed low-value,New South Wales,Polygender,18-29
+443,2,2604.0,41,4,4,2,Active high-value,Victoria,Bigender,40-49
+445,2,3155.0,128,2,4,2,Lapsed high-value (win back),Victoria,Polygender,40-49
+446,2,1620.0,225,1,3,2,Lapsed high-value (win back),Tasmania,Non-binary,40-49
+447,1,408.0,40,4,1,1,Active low-value,New South Wales,Bigender,60-69
+448,1,831.0,3,4,1,1,Active low-value,Queensland,Genderqueer,60-69
+450,1,480.0,119,2,1,1,Lapsed low-value,New South Wales,Genderfluid,50-59
+452,1,1450.0,10,4,3,1,Active high-value,New South Wales,Genderqueer,18-29
+453,1,1733.0,152,2,3,1,Lapsed high-value (win back),Tasmania,Polygender,30-39
+454,2,2395.0,39,4,4,2,Active high-value,New South Wales,Genderfluid,18-29
+455,1,400.0,188,2,1,1,Lapsed low-value,Northern Territory,Non-binary,60-69
+456,2,1316.0,61,3,2,2,Active low-value,Queensland,Agender,30-39
+457,2,2866.0,183,2,4,2,Lapsed high-value (win back),Victoria,Male,18-29
+458,1,691.0,253,1,1,1,Lapsed low-value,Queensland,Genderqueer,40-49
+460,1,797.0,194,1,1,1,Lapsed low-value,Victoria,Genderfluid,30-39
+461,3,3619.0,241,1,4,3,Lapsed high-value (win back),Australian Capital Territory,Female,50-59
+462,1,951.0,125,2,2,1,Lapsed low-value,South Australia,Non-binary,40-49
+463,2,1736.0,15,4,3,2,Active high-value,Australian Capital Territory,Agender,50-59
+465,4,4807.0,65,3,4,3,Active high-value,Victoria,Female,30-39
+466,1,2066.0,241,1,3,1,Lapsed high-value (win back),South Australia,Male,18-29
+467,2,3564.0,254,1,4,2,Lapsed high-value (win back),South Australia,Bigender,50-59
+468,1,1365.0,33,4,2,1,Active low-value,Tasmania,Genderqueer,60-69
+469,4,2785.0,47,4,4,3,Active high-value,New South Wales,Female,70+
+470,2,1548.0,129,2,3,2,Lapsed high-value (win back),Western Australia,Genderfluid,40-49
+471,1,1867.0,235,1,3,1,Lapsed high-value (win back),New South Wales,Non-binary,30-39
+472,2,2863.0,176,2,4,2,Lapsed high-value (win back),Queensland,Male,50-59
+473,2,2175.0,83,3,4,2,Active high-value,South Australia,Male,60-69
+474,1,1529.0,68,3,3,1,Active high-value,South Australia,Non-binary,18-29
+476,1,1119.0,173,2,2,1,Lapsed low-value,South Australia,Genderfluid,60-69
+478,1,1834.0,176,2,3,1,Lapsed high-value (win back),Northern Territory,Non-binary,70+
+479,2,1610.0,95,3,3,2,Active high-value,Western Australia,Genderqueer,18-29
+482,1,1164.0,245,1,2,1,Lapsed low-value,Queensland,Agender,60-69
+485,3,3864.0,25,4,4,3,Active high-value,Australian Capital Territory,Male,40-49
+486,1,724.0,168,2,1,1,Lapsed low-value,Northern Territory,Agender,60-69
+489,1,1970.0,114,2,3,1,Lapsed high-value (win back),New South Wales,Polygender,50-59
+490,3,2420.0,66,3,4,3,Active high-value,New South Wales,Male,50-59
+492,2,1626.0,97,3,3,2,Active high-value,Queensland,Bigender,60-69
+493,3,3015.0,19,4,4,3,Active high-value,Victoria,Bigender,60-69
+496,1,1203.0,263,1,2,1,Lapsed low-value,South Australia,Bigender,30-39
+497,2,768.0,55,3,1,2,Active low-value,Northern Territory,Bigender,30-39
+499,1,921.0,58,3,2,1,Active low-value,Australian Capital Territory,Agender,18-29
+500,1,1039.0,236,1,2,1,Lapsed low-value,Western Australia,Non-binary,70+
+501,2,1084.0,20,4,2,2,Active low-value,Tasmania,Genderqueer,70+
+502,2,1693.0,86,3,3,2,Active high-value,Australian Capital Territory,Male,30-39
+504,2,2130.0,156,2,3,2,Lapsed high-value (win back),Northern Territory,Genderqueer,50-59
+506,1,885.0,157,2,2,1,Lapsed low-value,Australian Capital Territory,Agender,30-39
+507,1,1393.0,135,2,2,1,Lapsed low-value,Victoria,Polygender,70+
+508,1,1714.0,49,4,3,1,Active high-value,Northern Territory,Non-binary,60-69
+510,2,1372.0,183,2,2,2,Lapsed low-value,New South Wales,Non-binary,60-69
+513,1,1244.0,56,3,2,1,Active low-value,Tasmania,Non-binary,30-39
+515,4,3326.0,25,4,4,3,Active high-value,Australian Capital Territory,Female,50-59
+516,1,1625.0,183,2,3,1,Lapsed high-value (win back),Northern Territory,Polygender,60-69
+518,1,1032.0,213,1,2,1,Lapsed low-value,Northern Territory,Agender,30-39
+522,2,1263.0,101,3,2,2,Active low-value,South Australia,Genderqueer,70+
+523,1,641.0,47,4,1,1,Active low-value,Northern Territory,Bigender,18-29
+524,1,726.0,50,4,1,1,Active low-value,Queensland,Agender,70+
+526,3,2358.0,57,3,4,3,Active high-value,Tasmania,Male,70+
+528,2,1378.0,60,3,2,2,Active low-value,Western Australia,Non-binary,60-69
+530,3,1423.0,12,4,2,3,Active low-value,Western Australia,Polygender,60-69
+534,1,1680.0,47,4,3,1,Active high-value,Tasmania,Female,50-59
+535,2,2586.0,17,4,4,2,Active high-value,South Australia,Polygender,50-59
+537,3,2146.0,122,2,3,3,Lapsed high-value (win back),Western Australia,Non-binary,40-49
+539,3,3775.0,49,4,4,3,Active high-value,Queensland,Male,70+
+545,1,500.0,179,2,1,1,Lapsed low-value,Queensland,Non-binary,50-59
+548,1,1605.0,22,4,3,1,Active high-value,Northern Territory,Agender,50-59
+549,4,3624.0,56,3,4,3,Active high-value,Northern Territory,Male,50-59
+550,1,390.0,31,4,1,1,Active low-value,New South Wales,Male,18-29
+551,2,1754.0,226,1,3,2,Lapsed high-value (win back),South Australia,Bigender,60-69
+553,2,2167.0,16,4,4,2,Active high-value,New South Wales,Genderfluid,30-39
+554,1,708.0,202,1,1,1,Lapsed low-value,Tasmania,Non-binary,50-59
+555,1,978.0,15,4,2,1,Active low-value,Victoria,Polygender,70+
+556,2,2048.0,53,3,3,2,Active high-value,South Australia,Genderfluid,60-69
+557,1,1807.0,214,1,3,1,Lapsed high-value (win back),Tasmania,Bigender,50-59
+558,3,2712.0,26,4,4,3,Active high-value,South Australia,Genderqueer,30-39
+562,2,1430.0,113,2,2,2,Lapsed low-value,Queensland,Agender,50-59
+564,1,1786.0,110,3,3,1,Active high-value,Northern Territory,Bigender,30-39
+565,2,3264.0,220,1,4,2,Lapsed high-value (win back),Queensland,Genderqueer,70+
+566,5,5435.0,6,4,4,3,Active high-value,Tasmania,Male,18-29
+567,1,1370.0,98,3,2,1,Active low-value,Northern Territory,Female,30-39
+568,2,2084.0,25,4,3,2,Active high-value,Tasmania,Bigender,60-69
+570,2,1370.0,104,3,2,2,Active low-value,New South Wales,Genderqueer,30-39
+571,6,6640.0,67,3,4,3,Active high-value,Australian Capital Territory,Agender,18-29
+572,1,1612.0,176,2,3,1,Lapsed high-value (win back),South Australia,Agender,18-29
+573,3,2631.0,140,2,4,3,Lapsed high-value (win back),South Australia,Male,30-39
+574,3,3318.0,29,4,4,3,Active high-value,Northern Territory,Polygender,50-59
+577,3,1936.0,54,3,3,3,Active high-value,South Australia,Genderfluid,30-39
+578,1,1101.0,271,1,2,1,Lapsed low-value,New South Wales,Genderfluid,70+
+581,3,4216.0,156,2,4,3,Lapsed high-value (win back),South Australia,Polygender,40-49
+583,1,645.0,63,3,1,1,Active low-value,Northern Territory,Genderqueer,50-59
+585,2,2411.0,138,2,4,2,Lapsed high-value (win back),South Australia,Non-binary,18-29
+586,2,815.0,100,3,1,2,Active low-value,New South Wales,Agender,30-39
+587,2,2003.0,162,2,3,2,Lapsed high-value (win back),Queensland,Agender,30-39
+588,2,1691.0,116,2,3,2,Lapsed high-value (win back),Victoria,Genderfluid,40-49
+589,2,3352.0,8,4,4,2,Active high-value,Queensland,Polygender,50-59
+592,1,295.0,86,3,1,1,Active low-value,South Australia,Bigender,60-69
+595,3,2548.0,121,2,4,3,Lapsed high-value (win back),South Australia,Female,60-69
+597,1,427.0,205,1,1,1,Lapsed low-value,South Australia,Genderfluid,70+
+601,2,1585.0,255,1,3,2,Lapsed high-value (win back),South Australia,Male,50-59
+602,1,2267.0,260,1,4,1,Lapsed high-value (win back),Western Australia,Bigender,50-59
+605,2,2296.0,29,4,4,2,Active high-value,Western Australia,Female,18-29
+606,2,1799.0,105,3,3,2,Active high-value,New South Wales,Polygender,50-59
+607,1,818.0,53,3,1,1,Active low-value,Northern Territory,Male,40-49
+609,1,1318.0,295,1,2,1,Lapsed low-value,Northern Territory,Polygender,60-69
+610,1,836.0,226,1,1,1,Lapsed low-value,Tasmania,Agender,30-39
+611,2,2812.0,113,2,4,2,Lapsed high-value (win back),New South Wales,Female,60-69
+612,1,820.0,152,2,1,1,Lapsed low-value,South Australia,Female,30-39
+614,3,2522.0,93,3,4,3,Active high-value,New South Wales,Polygender,40-49
+615,1,943.0,153,2,2,1,Lapsed low-value,Queensland,Non-binary,40-49
+620,4,3884.0,92,3,4,3,Active high-value,Australian Capital Territory,Male,30-39
+623,3,4214.0,26,4,4,3,Active high-value,South Australia,Agender,50-59
+625,1,950.0,205,1,2,1,Lapsed low-value,Western Australia,Bigender,30-39
+626,1,523.0,203,1,1,1,Lapsed low-value,New South Wales,Genderqueer,60-69
+627,2,837.0,49,4,1,2,Active low-value,South Australia,Genderfluid,50-59
+628,2,1696.0,110,3,3,2,Active high-value,Northern Territory,Non-binary,70+
+629,3,3553.0,35,4,4,3,Active high-value,Western Australia,Male,50-59
+630,2,2109.0,3,4,3,2,Active high-value,Victoria,Male,40-49
+631,1,2077.0,72,3,3,1,Active high-value,Northern Territory,Female,40-49
+632,2,1664.0,36,4,3,2,Active high-value,Northern Territory,Agender,50-59
+634,1,1755.0,191,2,3,1,Lapsed high-value (win back),South Australia,Genderqueer,70+
+636,2,1997.0,134,2,3,2,Lapsed high-value (win back),Northern Territory,Male,18-29
+637,1,1169.0,53,3,2,1,Active low-value,Western Australia,Bigender,50-59
+638,1,1101.0,24,4,2,1,Active low-value,Victoria,Female,18-29
+639,3,3766.0,156,2,4,3,Lapsed high-value (win back),Victoria,Non-binary,40-49
+640,1,693.0,55,3,1,1,Active low-value,Queensland,Genderqueer,40-49
+641,2,2146.0,128,2,3,2,Lapsed high-value (win back),New South Wales,Agender,60-69
+643,3,4122.0,181,2,4,3,Lapsed high-value (win back),Tasmania,Female,30-39
+644,2,2036.0,30,4,3,2,Active high-value,Western Australia,Polygender,40-49
+647,2,1856.0,85,3,3,2,Active high-value,Australian Capital Territory,Male,50-59
+648,3,3485.0,6,4,4,3,Active high-value,South Australia,Genderfluid,30-39
+649,1,2264.0,126,2,4,1,Lapsed high-value (win back),Northern Territory,Genderfluid,70+
+651,1,937.0,228,1,2,1,Lapsed low-value,South Australia,Genderfluid,60-69
+652,1,563.0,161,2,1,1,Lapsed low-value,South Australia,Male,60-69
+653,1,1485.0,28,4,3,1,Active high-value,Queensland,Polygender,18-29
+654,1,1211.0,146,2,2,1,Lapsed low-value,Victoria,Female,40-49
+655,1,574.0,278,1,1,1,Lapsed low-value,South Australia,Agender,70+
+657,2,3103.0,216,1,4,2,Lapsed high-value (win back),South Australia,Male,18-29
+659,3,3314.0,10,4,4,3,Active high-value,Tasmania,Non-binary,50-59
+660,1,719.0,283,1,1,1,Lapsed low-value,Australian Capital Territory,Genderfluid,40-49
+661,1,742.0,162,2,1,1,Lapsed low-value,Western Australia,Male,40-49
+662,1,621.0,25,4,1,1,Active low-value,Queensland,Female,50-59
+664,5,6341.0,21,4,4,3,Active high-value,Tasmania,Genderfluid,30-39
+665,1,2082.0,165,2,3,1,Lapsed high-value (win back),Australian Capital Territory,Genderfluid,60-69
+667,1,505.0,293,1,1,1,Lapsed low-value,Victoria,Polygender,30-39
+669,1,857.0,271,1,1,1,Lapsed low-value,Victoria,Genderfluid,60-69
+673,1,632.0,38,4,1,1,Active low-value,South Australia,Male,50-59
+674,2,1508.0,8,4,3,2,Active high-value,South Australia,Bigender,30-39
+676,1,1289.0,296,1,2,1,Lapsed low-value,Northern Territory,Bigender,50-59
+677,2,2669.0,105,3,4,2,Active high-value,Tasmania,Female,30-39
+678,1,1437.0,41,4,2,1,Active low-value,New South Wales,Agender,70+
+679,2,2788.0,14,4,4,2,Active high-value,Western Australia,Genderqueer,70+
+680,3,3349.0,76,3,4,3,Active high-value,New South Wales,Bigender,70+
+681,1,799.0,165,2,1,1,Lapsed low-value,Victoria,Polygender,70+
+682,1,1226.0,155,2,2,1,Lapsed low-value,Western Australia,Polygender,18-29
+683,3,5657.0,111,3,4,3,Active high-value,Australian Capital Territory,Genderfluid,40-49
+684,1,456.0,85,3,1,1,Active low-value,Western Australia,Agender,70+
+686,1,1281.0,69,3,2,1,Active low-value,Victoria,Polygender,18-29
+687,1,1122.0,1,4,2,1,Active low-value,New South Wales,Bigender,18-29
+690,3,3693.0,1,4,4,3,Active high-value,Northern Territory,Genderqueer,30-39
+691,2,2147.0,27,4,3,2,Active high-value,New South Wales,Genderfluid,70+
+692,2,3037.0,122,2,4,2,Lapsed high-value (win back),Tasmania,Bigender,18-29
+693,3,1893.0,35,4,3,3,Active high-value,Queensland,Genderqueer,40-49
+696,2,2425.0,151,2,4,2,Lapsed high-value (win back),Australian Capital Territory,Non-binary,30-39
+697,1,740.0,129,2,1,1,Lapsed low-value,Australian Capital Territory,Agender,50-59
+698,1,1772.0,110,3,3,1,Active high-value,Victoria,Genderfluid,18-29
+703,2,2227.0,15,4,4,2,Active high-value,South Australia,Polygender,18-29
+706,1,1375.0,251,1,2,1,Lapsed low-value,Northern Territory,Agender,40-49
+708,1,726.0,169,2,1,1,Lapsed low-value,Western Australia,Genderfluid,50-59
+709,1,644.0,151,2,1,1,Lapsed low-value,Victoria,Genderfluid,60-69
+710,2,1753.0,89,3,3,2,Active high-value,New South Wales,Male,60-69
+711,4,3274.0,133,2,4,3,Lapsed high-value (win back),Victoria,Male,40-49
+714,1,1587.0,179,2,3,1,Lapsed high-value (win back),Northern Territory,Female,50-59
+715,1,1682.0,19,4,3,1,Active high-value,Tasmania,Bigender,60-69
+717,1,699.0,220,1,1,1,Lapsed low-value,Victoria,Agender,18-29
+723,1,651.0,95,3,1,1,Active low-value,Australian Capital Territory,Polygender,30-39
+724,1,592.0,294,1,1,1,Lapsed low-value,New South Wales,Female,60-69
+725,1,1498.0,86,3,3,1,Active high-value,Northern Territory,Non-binary,18-29
+726,2,3309.0,162,2,4,2,Lapsed high-value (win back),Western Australia,Genderqueer,18-29
+727,4,4428.0,4,4,4,3,Active high-value,New South Wales,Female,18-29
+728,1,1016.0,213,1,2,1,Lapsed low-value,Western Australia,Agender,50-59
+729,3,3156.0,41,4,4,3,Active high-value,South Australia,Female,50-59
+731,1,771.0,219,1,1,1,Lapsed low-value,Western Australia,Genderfluid,30-39
+732,4,4240.0,18,4,4,3,Active high-value,Queensland,Genderfluid,70+
+733,1,1781.0,190,2,3,1,Lapsed high-value (win back),New South Wales,Genderqueer,60-69
+735,1,851.0,82,3,1,1,Active low-value,Queensland,Bigender,40-49
+736,3,2778.0,134,2,4,3,Lapsed high-value (win back),Victoria,Female,50-59
+737,2,2699.0,69,3,4,2,Active high-value,Tasmania,Genderqueer,60-69
+738,1,1136.0,271,1,2,1,Lapsed low-value,Northern Territory,Genderqueer,50-59
+739,3,3074.0,69,3,4,3,Active high-value,New South Wales,Female,50-59
+740,3,2991.0,66,3,4,3,Active high-value,Tasmania,Non-binary,70+
+742,3,3097.0,4,4,4,3,Active high-value,Western Australia,Polygender,40-49
+745,1,1479.0,5,4,3,1,Active high-value,Northern Territory,Non-binary,30-39
+747,1,327.0,9,4,1,1,Active low-value,Victoria,Bigender,18-29
+750,2,1261.0,4,4,2,2,Active low-value,Victoria,Polygender,40-49
+754,3,2972.0,22,4,4,3,Active high-value,New South Wales,Bigender,70+
+755,1,1178.0,58,3,2,1,Active low-value,New South Wales,Female,70+
+757,3,3826.0,4,4,4,3,Active high-value,New South Wales,Non-binary,30-39
+758,2,2764.0,53,3,4,2,Active high-value,New South Wales,Genderfluid,40-49
+761,1,751.0,220,1,1,1,Lapsed low-value,Victoria,Non-binary,50-59
+762,1,736.0,14,4,1,1,Active low-value,Tasmania,Polygender,40-49
+764,2,1328.0,3,4,2,2,Active low-value,Western Australia,Polygender,30-39
+765,1,1667.0,225,1,3,1,Lapsed high-value (win back),New South Wales,Non-binary,50-59
+767,3,3491.0,27,4,4,3,Active high-value,South Australia,Genderqueer,30-39
+768,1,2136.0,217,1,3,1,Lapsed high-value (win back),Northern Territory,Bigender,50-59
+769,2,2421.0,89,3,4,2,Active high-value,Australian Capital Territory,Male,18-29
+770,1,1015.0,94,3,2,1,Active low-value,South Australia,Polygender,50-59
+771,1,1078.0,222,1,2,1,Lapsed low-value,Victoria,Genderfluid,70+
+772,2,2175.0,130,2,4,2,Lapsed high-value (win back),South Australia,Genderqueer,70+
+773,1,998.0,292,1,2,1,Lapsed low-value,New South Wales,Genderfluid,50-59
+774,3,2165.0,17,4,4,3,Active high-value,Tasmania,Genderqueer,30-39
+775,1,781.0,127,2,1,1,Lapsed low-value,Northern Territory,Bigender,50-59
+776,2,2201.0,29,4,4,2,Active high-value,Australian Capital Territory,Genderfluid,18-29
+778,3,3947.0,10,4,4,3,Active high-value,Northern Territory,Genderfluid,18-29
+780,1,279.0,63,3,1,1,Active low-value,Victoria,Genderfluid,50-59
+781,1,860.0,212,1,1,1,Lapsed low-value,Victoria,Genderfluid,30-39
+783,3,3021.0,52,3,4,3,Active high-value,South Australia,Female,40-49
+785,1,461.0,132,2,1,1,Lapsed low-value,Northern Territory,Genderfluid,50-59
+786,1,519.0,204,1,1,1,Lapsed low-value,New South Wales,Agender,18-29
+787,2,1812.0,70,3,3,2,Active high-value,South Australia,Female,30-39
+788,1,1311.0,116,2,2,1,Lapsed low-value,Queensland,Male,70+
+789,2,2674.0,285,1,4,2,Lapsed high-value (win back),Western Australia,Genderqueer,30-39
+790,1,525.0,295,1,1,1,Lapsed low-value,Australian Capital Territory,Genderqueer,60-69
+791,2,1749.0,174,2,3,2,Lapsed high-value (win back),Queensland,Agender,30-39
+793,2,1953.0,198,1,3,2,Lapsed high-value (win back),Western Australia,Agender,70+
+794,2,2723.0,67,3,4,2,Active high-value,South Australia,Non-binary,70+
+795,1,327.0,253,1,1,1,Lapsed low-value,Australian Capital Territory,Agender,40-49
+796,1,2024.0,201,1,3,1,Lapsed high-value (win back),Queensland,Polygender,18-29
+797,1,2298.0,124,2,4,1,Lapsed high-value (win back),Queensland,Female,30-39
+799,2,1468.0,46,4,3,2,Active high-value,New South Wales,Polygender,60-69
+800,2,1243.0,46,4,2,2,Active low-value,Queensland,Bigender,40-49
+801,2,2015.0,11,4,3,2,Active high-value,Australian Capital Territory,Female,60-69
+802,1,100.0,163,2,1,1,Lapsed low-value,Northern Territory,Female,70+
+803,2,2371.0,53,3,4,2,Active high-value,Australian Capital Territory,Bigender,60-69
+807,2,1952.0,232,1,3,2,Lapsed high-value (win back),Queensland,Polygender,18-29
+808,1,390.0,5,4,1,1,Active low-value,Western Australia,Bigender,30-39
+809,2,1863.0,134,2,3,2,Lapsed high-value (win back),Tasmania,Bigender,70+
+810,1,518.0,44,4,1,1,Active low-value,Australian Capital Territory,Non-binary,18-29
+812,1,796.0,156,2,1,1,Lapsed low-value,Western Australia,Male,18-29
+813,3,4969.0,31,4,4,3,Active high-value,New South Wales,Male,60-69
+816,1,675.0,40,4,1,1,Active low-value,Victoria,Genderfluid,18-29
+817,1,1709.0,209,1,3,1,Lapsed high-value (win back),Tasmania,Polygender,40-49
+818,1,112.0,27,4,1,1,Active low-value,Western Australia,Polygender,50-59
+820,1,898.0,178,2,2,1,Lapsed low-value,Queensland,Male,18-29
+821,2,3034.0,112,2,4,2,Lapsed high-value (win back),Australian Capital Territory,Agender,70+
+825,1,881.0,222,1,2,1,Lapsed low-value,Tasmania,Male,40-49
+827,1,1181.0,184,2,2,1,Lapsed low-value,Tasmania,Agender,30-39
+828,3,3050.0,18,4,4,3,Active high-value,Queensland,Female,50-59
+829,1,1046.0,223,1,2,1,Lapsed low-value,Victoria,Non-binary,30-39
+830,2,2649.0,23,4,4,2,Active high-value,South Australia,Male,40-49
+833,2,2571.0,29,4,4,2,Active high-value,Western Australia,Genderqueer,18-29
+834,2,1606.0,100,3,3,2,Active high-value,New South Wales,Non-binary,60-69
+835,2,2376.0,287,1,4,2,Lapsed high-value (win back),South Australia,Polygender,18-29
+836,1,603.0,199,1,1,1,Lapsed low-value,Queensland,Genderqueer,18-29
+840,3,3620.0,89,3,4,3,Active high-value,Western Australia,Agender,18-29
+841,1,735.0,100,3,1,1,Active low-value,Western Australia,Polygender,18-29
+842,2,2402.0,171,2,4,2,Lapsed high-value (win back),Western Australia,Polygender,70+
+843,1,413.0,267,1,1,1,Lapsed low-value,South Australia,Genderqueer,18-29
+844,2,1788.0,97,3,3,2,Active high-value,South Australia,Genderqueer,60-69
+846,2,1956.0,141,2,3,2,Lapsed high-value (win back),Victoria,Genderfluid,70+
+847,1,1039.0,195,1,2,1,Lapsed low-value,Western Australia,Agender,60-69
+849,1,716.0,48,4,1,1,Active low-value,New South Wales,Male,18-29
+851,1,383.0,80,3,1,1,Active low-value,Australian Capital Territory,Non-binary,70+
+852,3,3342.0,177,2,4,3,Lapsed high-value (win back),Tasmania,Polygender,60-69
+853,1,868.0,129,2,1,1,Lapsed low-value,New South Wales,Genderfluid,50-59
+854,1,1154.0,233,1,2,1,Lapsed low-value,Victoria,Female,70+
+857,1,1068.0,141,2,2,1,Lapsed low-value,Western Australia,Agender,18-29
+865,2,1235.0,192,1,2,2,Lapsed low-value,Victoria,Agender,40-49
+867,1,940.0,69,3,2,1,Active low-value,Tasmania,Bigender,30-39
+868,1,654.0,261,1,1,1,Lapsed low-value,Western Australia,Agender,18-29
+869,1,1196.0,253,1,2,1,Lapsed low-value,South Australia,Non-binary,18-29
+870,2,1477.0,83,3,3,2,Active high-value,Queensland,Genderfluid,40-49
+871,2,1739.0,132,2,3,2,Lapsed high-value (win back),Western Australia,Bigender,40-49
+872,3,2708.0,182,2,4,3,Lapsed high-value (win back),New South Wales,Non-binary,70+
+873,2,225.0,200,1,1,2,Lapsed low-value,Western Australia,Non-binary,30-39
+874,1,200.0,81,3,1,1,Active low-value,Western Australia,Genderqueer,60-69
+876,1,523.0,185,2,1,1,Lapsed low-value,Northern Territory,Male,18-29
+878,2,1140.0,70,3,2,2,Active low-value,Victoria,Genderfluid,50-59
+882,3,1908.0,30,4,3,3,Active high-value,South Australia,Genderqueer,40-49
+883,1,1372.0,81,3,2,1,Active low-value,South Australia,Polygender,40-49
+884,1,1299.0,22,4,2,1,Active low-value,Northern Territory,Bigender,40-49
+886,2,2072.0,80,3,3,2,Active high-value,Northern Territory,Non-binary,60-69
+887,1,1711.0,227,1,3,1,Lapsed high-value (win back),Victoria,Male,60-69
+889,1,912.0,31,4,2,1,Active low-value,Northern Territory,Genderqueer,60-69
+892,1,1427.0,92,3,2,1,Active low-value,Australian Capital Territory,Non-binary,40-49
+893,1,530.0,110,3,1,1,Active low-value,Western Australia,Genderfluid,50-59
+895,1,1437.0,184,2,2,1,Lapsed low-value,Queensland,Genderfluid,30-39
+896,1,1708.0,142,2,3,1,Lapsed high-value (win back),South Australia,Genderqueer,60-69
+898,2,1950.0,33,4,3,2,Active high-value,New South Wales,Bigender,40-49
+900,1,424.0,110,3,1,1,Active low-value,Tasmania,Agender,18-29
+904,1,1014.0,79,3,2,1,Active low-value,Tasmania,Genderfluid,40-49
+906,1,876.0,209,1,1,1,Lapsed low-value,Australian Capital Territory,Genderfluid,70+
+907,3,2140.0,115,2,3,3,Lapsed high-value (win back),South Australia,Female,40-49
+908,3,4071.0,3,4,4,3,Active high-value,Queensland,Genderqueer,40-49
+909,3,3059.0,61,3,4,3,Active high-value,Tasmania,Genderqueer,60-69
+912,2,828.0,25,4,1,2,Active low-value,Tasmania,Agender,60-69
+914,1,969.0,255,1,2,1,Lapsed low-value,South Australia,Bigender,30-39
+916,1,1152.0,134,2,2,1,Lapsed low-value,Australian Capital Territory,Polygender,18-29
+918,1,896.0,62,3,2,1,Active low-value,Australian Capital Territory,Polygender,60-69
+920,1,836.0,102,3,1,1,Active low-value,Northern Territory,Polygender,70+
+921,1,624.0,40,4,1,1,Active low-value,Australian Capital Territory,Polygender,70+
+922,2,1752.0,52,3,3,2,Active high-value,Victoria,Polygender,50-59
+924,1,1287.0,36,4,2,1,Active low-value,Queensland,Female,50-59
+925,1,880.0,226,1,2,1,Lapsed low-value,New South Wales,Non-binary,70+
+926,3,3289.0,169,2,4,3,Lapsed high-value (win back),Northern Territory,Genderqueer,60-69
+927,1,1441.0,265,1,3,1,Lapsed high-value (win back),Victoria,Male,60-69
+928,1,890.0,156,2,2,1,Lapsed low-value,Australian Capital Territory,Bigender,60-69
+929,1,1229.0,80,3,2,1,Active low-value,Northern Territory,Genderfluid,60-69
+933,1,698.0,64,3,1,1,Active low-value,South Australia,Genderqueer,30-39
+935,1,2141.0,232,1,3,1,Lapsed high-value (win back),New South Wales,Male,30-39
+936,1,1718.0,12,4,3,1,Active high-value,Australian Capital Territory,Genderfluid,70+
+937,2,1764.0,67,3,3,2,Active high-value,New South Wales,Male,70+
+940,1,1759.0,167,2,3,1,Lapsed high-value (win back),Tasmania,Genderqueer,40-49
+941,1,815.0,20,4,1,1,Active low-value,New South Wales,Female,50-59
+942,1,610.0,163,2,1,1,Lapsed low-value,Victoria,Genderfluid,40-49
+944,1,810.0,120,2,1,1,Lapsed low-value,Victoria,Genderfluid,30-39
+945,1,2095.0,202,1,3,1,Lapsed high-value (win back),Australian Capital Territory,Non-binary,40-49
+946,1,636.0,296,1,1,1,Lapsed low-value,Queensland,Genderfluid,18-29
+947,1,1467.0,103,3,3,1,Active high-value,New South Wales,Genderqueer,70+
+950,1,319.0,154,2,1,1,Lapsed low-value,Victoria,Male,40-49
+951,1,840.0,202,1,1,1,Lapsed low-value,Tasmania,Male,60-69
+952,1,1018.0,197,1,2,1,Lapsed low-value,Northern Territory,Female,40-49
+954,1,1794.0,29,4,3,1,Active high-value,South Australia,Non-binary,60-69
+955,1,1685.0,39,4,3,1,Active high-value,Australian Capital Territory,Bigender,50-59
+956,3,3373.0,13,4,4,3,Active high-value,New South Wales,Genderfluid,18-29
+957,1,1254.0,210,1,2,1,Lapsed low-value,South Australia,Male,70+
+963,1,1132.0,84,3,2,1,Active low-value,Northern Territory,Genderqueer,40-49
+965,2,1619.0,93,3,3,2,Active high-value,Western Australia,Bigender,70+
+966,1,600.0,230,1,1,1,Lapsed low-value,Western Australia,Female,60-69
+969,1,186.0,290,1,1,1,Lapsed low-value,South Australia,Polygender,70+
+970,1,505.0,141,2,1,1,Lapsed low-value,Queensland,Genderfluid,40-49
+971,3,2069.0,68,3,3,3,Active high-value,Queensland,Genderfluid,18-29
+973,1,2116.0,118,2,3,1,Lapsed high-value (win back),Tasmania,Female,60-69
+974,1,797.0,221,1,1,1,Lapsed low-value,South Australia,Agender,60-69
+977,1,1963.0,272,1,3,1,Lapsed high-value (win back),Queensland,Polygender,30-39
+980,2,2318.0,39,4,4,2,Active high-value,South Australia,Agender,30-39
+981,1,1747.0,142,2,3,1,Lapsed high-value (win back),Australian Capital Territory,Genderqueer,40-49
+984,1,575.0,14,4,1,1,Active low-value,Northern Territory,Female,50-59
+986,2,3573.0,30,4,4,2,Active high-value,Australian Capital Territory,Polygender,30-39
+987,2,1715.0,223,1,3,2,Lapsed high-value (win back),New South Wales,Genderfluid,70+
+988,1,1046.0,261,1,2,1,Lapsed low-value,Western Australia,Polygender,30-39
+989,2,1815.0,156,2,3,2,Lapsed high-value (win back),Australian Capital Territory,Bigender,50-59
+991,1,942.0,225,1,2,1,Lapsed low-value,Tasmania,Genderfluid,30-39
+993,1,892.0,217,1,2,1,Lapsed low-value,Victoria,Polygender,18-29
+994,1,1716.0,286,1,3,1,Lapsed high-value (win back),Western Australia,Female,50-59
+995,1,2140.0,84,3,3,1,Active high-value,Western Australia,Polygender,60-69
+996,2,3045.0,52,3,4,2,Active high-value,Tasmania,Agender,50-59
+998,4,4415.0,98,3,4,3,Active high-value,Queensland,Polygender,30-39
+1000,1,1483.0,14,4,3,1,Active high-value,Tasmania,Male,70+
